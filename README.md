@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP/Python/Java/matlab
 - 🌱 I’m currently learning Google Bert
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ：email：1135195062@qq.com
+- 📫 How to reach me ：email：Yao_131248@hotmail.com
 
 <!---
 YJY131248/YJY131248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
