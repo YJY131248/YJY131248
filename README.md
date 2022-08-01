@@ -1,4 +1,4 @@
-- 👋 Hi, I’m YaoJinyu from HZAU. My major is information management and information system. And I'll go to RUC to finish my graduate school and research when 2023.
+- 👋 Hi, I’m YaoJinyu from HZAU. My major is information management and information system. 
 - 👀 I’m interested in NLP/Deep Learning/Machine Learning/Python/C++.
 - 🌱 I’m currently learning Google Bert, sentiment analysis, text mining and so on.
 - 💞️ I’m looking to collaborate on ...
