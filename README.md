@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YJY131248
-- 👀 I’m interested in NLP/Python/Java/matlab
+- 👀 I’m interested in NLP/Deep Learning/Machine Learning/Python/C++
 - 🌱 I’m currently learning Google Bert
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：email：Yao_131248@hotmail.com
