@@ -1,7 +1,6 @@
-- 👋 Hi, I’m YaoJinyu from HZAU. My major is information management and information system. 
-- 👀 I’m interested in NLP/Deep Learning/Machine Learning/Python/C++.
-- 🌱 I’m currently learning Google Bert, sentiment analysis, text mining and so on.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m YaoJinyu from RUC. My major is Management Science and Engineering(IS). 
+- 👀 I’m interested in NLP/Deep Learning/Data Mining…
+- 🌱 I’m currently learning LLMs Prompt, Multi-Modal analysis…
 - 📫 How to reach me ：email：Yao_131248@hotmail.com
 
 <!---
