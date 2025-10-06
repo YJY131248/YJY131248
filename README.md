@@ -1,6 +1,6 @@
-- 👋 Hi, I’m YaoJinyu from RUC. My major is Management Science and Engineering(IS). 
-- 👀 I’m interested in NLP/Deep Learning/Data Mining…
-- 🌱 I’m currently learning LLMs RAG, Multi-Modal analysis…
+- 👋 Hi, I’m YaoJinyu from RUC. My major is Management Science and Engineering(Information System). Worked as an NLP algorithm intern at Tencent/ByteDance.
+- 👀 I’m interested in NLP/Deep Learning/LLMs…
+- 🌱 I’m currently learning LLMs RAG, LLMs Post Training…
 - 📫 How to reach me ：email：Yao_131248@hotmail.com
 
 <!---
